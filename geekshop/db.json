@@ -1,0 +1,78 @@
+[
+  {
+    "category": 2,
+    "name": "красный стул",
+    "image": "product_images/product-4.jpg",
+    "short_desc": "",
+    "description": "",
+    "price": "3600.00",
+    "quantity": 50,
+    "created": "2021-07-09T15:10:56.294",
+    "update": "2021-07-09T15:10:56.294"
+  },
+  {
+    "category": 4,
+    "name": "Светильник-сфера",
+    "image": "product_images/product-1.jpg",
+    "short_desc": "",
+    "description": "",
+    "price": "1800.00",
+    "quantity": 20,
+    "created": "2021-07-09T15:11:34.357",
+    "update": "2021-07-09T15:11:34.357"
+  },
+{
+      "category": 6,
+      "name": "комплект стульев",
+      "image": "product_images/product-21.jpg",
+      "short_desc": "для гостинной",
+      "description": "",
+      "price": "7600.00",
+      "quantity": 23,
+      "created": "2021-07-09T15:12:21.105",
+      "update": "2021-07-09T15:12:21.105"
+
+  },
+  {
+      "category": 5,
+      "name": "кресло из синей экокожи",
+      "image": "",
+      "short_desc": "уникальный дизайн для вашего офиса",
+      "description": "",
+      "price": "8300.00",
+      "quantity": 16,
+      "created": "2021-07-09T15:29:34.062",
+      "update": "2021-07-09T15:29:34.062"
+
+  },
+  {
+    "model": "mainapp.product",
+    "pk": 6,
+    "fields": {
+      "category": 4,
+      "name": "софтбокс для офиса",
+      "image": "product_images/product-2-sm.jpg",
+      "short_desc": "контурный свет для ваших переговоров",
+      "description": "",
+      "price": "2300.00",
+      "quantity": 15,
+      "created": "2021-07-09T15:30:18.877",
+      "update": "2021-07-09T15:30:18.877"
+    }
+  },
+  {
+    "model": "mainapp.product",
+    "pk": 7,
+    "fields": {
+      "category": 3,
+      "name": "диван-книжка",
+      "image": "product_images/product-3-sm.jpg",
+      "short_desc": "",
+      "description": "",
+      "price": "12000.00",
+      "quantity": 8,
+      "created": "2021-07-09T15:31:12.825",
+      "update": "2021-07-09T15:31:12.825"
+    }
+  }
+]

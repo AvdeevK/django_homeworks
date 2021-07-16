@@ -1,0 +1,112 @@
+[
+  {
+    "category": "Стулья",
+    "name": "Красный стул",
+    "image": "product_images/product-4.jpg",
+    "short_desc": "",
+    "description": "",
+    "price": "3600.00",
+    "quantity": 50
+  },
+  {
+    "category": "Модерн",
+    "name": "Светильник-сфера",
+    "image": "product_images/product-1.jpg",
+    "short_desc": "",
+    "description": "",
+    "price": "1800.00",
+    "quantity": 20
+  },
+{
+      "category": "Классика",
+      "name": "Комплект стульев",
+      "image": "product_images/product-21.jpg",
+      "short_desc": "для гостинной",
+      "description": "",
+      "price": "7600.00",
+      "quantity": 23
+  },
+  {
+      "category": "Модерн",
+      "name": "Кресло из синей экокожи",
+      "image": "",
+      "short_desc": "уникальный дизайн для вашего офиса",
+      "description": "",
+      "price": "8300.00",
+      "quantity": 16
+  },
+  {
+
+      "category": "Офис",
+      "name": "Софтбокс для офиса",
+      "image": "product_images/product-2-sm.jpg",
+      "short_desc": "контурный свет для ваших переговоров",
+      "description": "",
+      "price": "2300.00",
+      "quantity": 15
+  },
+  {
+      "category": "Дом",
+      "name": "Диван-книжка",
+      "image": "product_images/product-3-sm.jpg",
+      "short_desc": "",
+      "description": "",
+      "price": "12000.00",
+      "quantity": 8
+  },
+    {
+    "category": "Стулья",
+    "name": "Синий стул",
+    "image": "product_images/product-4.jpg",
+    "short_desc": "",
+    "description": "",
+    "price": "8900.00",
+    "quantity": 20
+  },
+  {
+    "category": "Модерн",
+    "name": "Лампа-шар",
+    "image": "product_images/product-1.jpg",
+    "short_desc": "",
+    "description": "",
+    "price": "800.00",
+    "quantity": 40
+  },
+{
+      "category": "Классика",
+      "name": "Кухонные стулья",
+      "image": "product_images/product-21.jpg",
+      "short_desc": "для кухни",
+      "description": "",
+      "price": "9600.00",
+      "quantity": 14
+  },
+  {
+      "category": "Модерн",
+      "name": "Кресло из натуральной кожи",
+      "image": "",
+      "short_desc": "Практичность",
+      "description": "",
+      "price": "18300.00",
+      "quantity": 32
+  },
+  {
+
+      "category": "Офис",
+      "name": "Светильник для спальни",
+      "image": "product_images/product-2-sm.jpg",
+      "short_desc": "Тёплый ночной свет",
+      "description": "",
+      "price": "12300.00",
+      "quantity": 18
+  },
+  {
+      "category": "Дом",
+      "name": "Диван-кровать",
+      "image": "product_images/product-3-sm.jpg",
+      "short_desc": "",
+      "description": "",
+      "price": "120000.00",
+      "quantity": 18
+  }
+]
