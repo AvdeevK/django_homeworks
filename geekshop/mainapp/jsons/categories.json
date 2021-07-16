@@ -1,28 +1,23 @@
 [
 {
-      "name": "классика",
+      "name": "Классика",
       "description": ""
   },
   {
 
-      "name": "модерн",
+      "name": "Модерн",
       "description": ""
-
   },
   {
-      "name": "дом",
+      "name": "Дом",
       "description": ""
-
   },
   {
-      "name": "офис",
+      "name": "Офис",
       "description": ""
-
   },
   {
-      "name": "стулья",
+      "name": "Стулья",
       "description": ""
-
-
   }
 ]
